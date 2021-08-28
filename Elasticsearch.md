@@ -1,6 +1,15 @@
-Objective
-Developer who want to start
+**Objective**
+<ul>
+  <li>Getting started with Elasticsearch and know various components in ELK Stack </li>
+<li>Understanding both developer and administrator perspective in ELK stack </li>
+  <li>Able to Query the document in Elasticsearch and perform various operations</li>
+</ul>
 
+**Pre-Requisite**
+<ul>
+ <li> Good to have basic Understanding about SQL</li>
+ <li> Knowledge on Python or any programming language</li>
+</ul>
 
 | S.NO 	| TOPIC 	| DURATION 	|
 |---	|---	|---	|
